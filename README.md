@@ -1,1 +1,0 @@
-## linkdoyle.github.io
