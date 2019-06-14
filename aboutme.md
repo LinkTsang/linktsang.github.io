@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-# 曾奕斌 (Link Doyle)
+# Link Doyle
 
 * Software Engineer
 * Email: linkdoyle{at}163.com
