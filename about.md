@@ -4,15 +4,41 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 曾奕斌 (Link Doyle)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+* Software Engineer
+* Email: linkdoyle{at}163.com
+* Github: [LinkDoyle](https://github.com/LinkDoyle)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Education and Working
+
+* 2015.09 - 2019.06 华南农业大学，网络工程，工学士
+* 2018.05 - 2019.02 金山办公软件，程序开发工程师
+* 2019.09 - 2022.06 华南师范大学，软件工程，工学士
+
+# Skills
+
+First:
+* C/C++、Qt
+* C#、WPF
+
+Second:
+* Python
+* Java、JavaFX
+* HTML/CSS/JavaScript
+
+# 工作项目
+
+* WPS 2019 内部皮肤编辑器
+
+* WPS 2019 皮肤中心
 
 
-[jekyll-organization]: https://github.com/jekyll
+# 业余项目
+
+* ZUIScript
+
+* FlowChat
+
+* TowerDefense
+
